@@ -1,0 +1,1 @@
+export const file3 = "content3";
